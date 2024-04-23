@@ -16,6 +16,6 @@ public class SimpleApplication{
         counter ++;
     }
     average = total/10;
-    System.out.println("Your average is " + average);
+    System.out.println("Your changed average is " + average);
   }
 }
